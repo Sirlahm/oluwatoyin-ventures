@@ -1,0 +1,11 @@
+.page{
+    height: 100vh;
+    color: #333;
+    background-color: #eee;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    padding: 5rem;
+}
+.bold {
+    font-weight: bold;
+}
